@@ -38,5 +38,5 @@ The AI & IoT-Enabled Smart Attendance System is a cutting-edge solution that rev
 1. **Clone the repository**
 
 ```bash
-git clone https://github.com/AaryanPartap/Smart-Attendance-System.git
+git clone https://github.com/AaryanPartap/Smart-Attendance-System.git
 cd Smart-Attendance-System
